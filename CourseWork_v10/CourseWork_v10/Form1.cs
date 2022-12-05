@@ -120,6 +120,7 @@ namespace CourseWork_v10
                 if(userResponse == DialogResult.Yes)
                 {
                     tb_ChildBindingSource.RemoveCurrent();
+                    MessageBox.Show("Information has been deleted");
                 }
             }
         }
