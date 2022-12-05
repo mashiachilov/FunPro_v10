@@ -1,0 +1,12 @@
+D:\Study\level4\fun pro\ConnectArch\CourseWork_v10\CourseWork_v10\bin\Debug\Children.mdb
+D:\Study\level4\fun pro\ConnectArch\CourseWork_v10\CourseWork_v10\bin\Debug\CourseWork_v10.exe.config
+D:\Study\level4\fun pro\ConnectArch\CourseWork_v10\CourseWork_v10\bin\Debug\CourseWork_v10.exe
+D:\Study\level4\fun pro\ConnectArch\CourseWork_v10\CourseWork_v10\bin\Debug\CourseWork_v10.pdb
+D:\Study\level4\fun pro\ConnectArch\CourseWork_v10\CourseWork_v10\obj\Debug\CourseWork_v10.csproj.AssemblyReference.cache
+D:\Study\level4\fun pro\ConnectArch\CourseWork_v10\CourseWork_v10\obj\Debug\CourseWork_v10.csproj.SuggestedBindingRedirects.cache
+D:\Study\level4\fun pro\ConnectArch\CourseWork_v10\CourseWork_v10\obj\Debug\CourseWork_v10.Form1.resources
+D:\Study\level4\fun pro\ConnectArch\CourseWork_v10\CourseWork_v10\obj\Debug\CourseWork_v10.Properties.Resources.resources
+D:\Study\level4\fun pro\ConnectArch\CourseWork_v10\CourseWork_v10\obj\Debug\CourseWork_v10.csproj.GenerateResource.cache
+D:\Study\level4\fun pro\ConnectArch\CourseWork_v10\CourseWork_v10\obj\Debug\CourseWork_v10.csproj.CoreCompileInputs.cache
+D:\Study\level4\fun pro\ConnectArch\CourseWork_v10\CourseWork_v10\obj\Debug\CourseWork_v10.exe
+D:\Study\level4\fun pro\ConnectArch\CourseWork_v10\CourseWork_v10\obj\Debug\CourseWork_v10.pdb
